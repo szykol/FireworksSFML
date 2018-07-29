@@ -1,4 +1,6 @@
 #include "Particle.h"
+#include <cmath>
+#include <SFML/Graphics.hpp>
 
 Particle::Particle(const sf::Vector2f & position, float radius)
 	:sf::CircleShape(radius, 60U), acceleration(0.f,0.f)

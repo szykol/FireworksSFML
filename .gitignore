@@ -15,6 +15,7 @@
 *.vcxproj.filters
 *.dll
 *.rar
+build/
 Dependencies/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
