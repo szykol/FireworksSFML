@@ -1,2 +1,2 @@
-cmake-modules/* linguist-detectable=false
-CMakeLists.txt linguist-detectable=false
+cmake-modules/* linguist-vendored
+CMakeLists.txt linguist-vendored
