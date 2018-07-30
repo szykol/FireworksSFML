@@ -1,2 +1,3 @@
-cmake-modules/* linguist-vendored
-CMakeLists.txt linguist-vendored
+*.cmake linguist-vendored
+*.txt linguist-vendored
+
